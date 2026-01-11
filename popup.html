@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>玄纹鉴</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="brand">
+        <img src="icon48.png" alt="Logo">
+        <h1>玄纹鉴</h1>
+      </div>
+    </header>
+    
+    <main class="content">
+      <div class="url-display" id="urlDisplay">
+        <span class="url" id="currentUrl">-</span>
+      </div>
+      
+      <div class="action-section">
+        <button id="identifyBtn" class="btn btn-primary">
+          <span class="btn-text">开始识别</span>
+          <span class="btn-loader" style="display: none;"></span>
+        </button>
+        <button id="addRuleBtn" class="btn btn-secondary">
+          添加规则
+        </button>
+      </div>
+      
+      <div class="action-section">
+        <button id="generateBtn" class="btn btn-link">
+          指纹规则生成
+        </button>
+      </div>
+      
+      <div class="result-section" id="resultSection" style="display: none;">
+        <div class="result-content" id="resultContent">
+          <!-- 结果将在这里显示 -->
+        </div>
+      </div>
+    </main>
+    
+    <footer class="footer">
+      <p>知攻善防实验室 · ChinaRan404</p>
+    </footer>
+  </div>
+  
+  <!-- 添加规则模态框 -->
+  <div id="addRuleModal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>添加指纹规则</h2>
+        <button class="modal-close" id="closeModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="ruleForm">
+          <div class="form-group">
+            <label for="productName">产品名称 *</label>
+            <input type="text" id="productName" required placeholder="例如：Apache Tomcat">
+          </div>
+          
+          <div class="form-group">
+            <label for="company">生产厂商</label>
+            <input type="text" id="company" placeholder="例如：Apache Software Foundation">
+          </div>
+          
+          <div class="form-group">
+            <label for="industry">行业分类</label>
+            <input type="text" id="industry" placeholder="例如：Web 服务器">
+          </div>
+          
+          <div class="form-group">
+            <label for="level">风险等级 *</label>
+            <select id="level" required>
+              <option value="1">1 - 低危 (Low)</option>
+              <option value="2" selected>2 - 中危 (Medium)</option>
+              <option value="3">3 - 高危 (High)</option>
+              <option value="4">4 - 严重 (Critical)</option>
+            </select>
+          </div>
+          
+          <div class="form-group">
+            <label>Body 规则</label>
+            <div id="bodyRules">
+              <div class="rule-input-group">
+                <input type="text" class="rule-input" placeholder="输入匹配关键词">
+                <button type="button" class="btn-remove-rule">删除</button>
+              </div>
+            </div>
+            <button type="button" class="btn-add-rule" data-type="body">+ 添加 Body 规则</button>
+          </div>
+          
+          <div class="form-group">
+            <label>Header 规则</label>
+            <div id="headerRules">
+              <div class="rule-input-group">
+                <input type="text" class="rule-input" placeholder="输入匹配关键词">
+                <button type="button" class="btn-remove-rule">删除</button>
+              </div>
+            </div>
+            <button type="button" class="btn-add-rule" data-type="header">+ 添加 Header 规则</button>
+          </div>
+          
+          <div class="form-actions">
+            <button type="submit" class="btn btn-primary">保存规则</button>
+            <button type="button" class="btn btn-secondary" id="cancelBtn">取消</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>

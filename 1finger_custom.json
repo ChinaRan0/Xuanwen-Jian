@@ -1,0 +1,3051 @@
+[
+  {
+    "product_name": "安达通-安全网关",
+    "company": "安达通",
+    "industry": "",
+    "level": 0,
+    "rules": {
+      "body": [
+        "lan/admin_downUsbkeyTool"
+      ]
+    }
+  },  {
+    "product_name": "爱数网盘",
+    "level": 1,
+    "rules": {
+      "body": [
+        "as-tooltip ng-hide"
+      ]
+    }
+  },
+    {
+    "product_name": "安科瑞环保用电监管云平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "myCss/phone.css"
+      ]
+    }
+  },  {
+    "product_name": "安美数字酒店宽带运营系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "bgcolor=\"#A0C3DE\""
+      ]
+    }
+  },  {
+    "product_name": "昂捷CRM",
+    "level": 1,
+    "rules": {
+      "body": [
+        "CheckSilverlightInstalled"
+      ]
+    }
+  },  {
+    "product_name": "百易云资产管理运营系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "media/css/uniform.default.css",
+        "资管云"
+      ]
+    }
+  },  {
+    "product_name": "iserver",
+    "company": "北京超图软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "欢迎使用 SuperMap iServer"
+      ]
+    }
+  },
+    {
+    "product_name": "碧海威云平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "碧海威云平台"
+      ]
+    }
+  },  {
+    "product_name": "博斯外贸管理软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "bs2010/bs2010_09.gif"
+      ]
+    }
+  },  {
+    "product_name": "喰星云-数字化餐饮服务系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "tmp_md5_pwd"
+      ]
+    }
+  },  {
+    "product_name": "驰骋BPM",
+    "level": 1,
+    "rules": {
+      "body": [
+        "BIMe流程设计管理平台"
+      ]
+    }
+  },  {
+    "product_name": "大商创多用户商城系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "dsc-choie"
+      ]
+    }
+  },  {
+    "product_name": "地大信息-基础信息平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/SystemManage/BaseProject"
+      ]
+    }
+  },  {
+    "product_name": "电信网关配置管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "img/login_bg3.png",
+        "系统登录"
+      ]
+    }
+  },  {
+    "product_name": "电子图书阅读平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Index.aspx/SearchBy"
+      ]
+    }
+  },  {
+    "product_name": "电子资料管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Menu/Login/ThirdLoginHandler.ashx"
+      ]
+    }
+  },  {
+    "product_name": "东华医疗协同办公系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/skin/charmBlue/css/dialog.css"
+      ]
+    }
+  },  {
+    "product_name": "东胜物流软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "FeeCodes/CompanysAdapter.aspx"
+      ]
+    }
+  },   {
+    "product_name": "懂微百择唯",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Content/Css/_SiteCss/"
+      ]
+    }
+  },  {
+    "product_name": "杜特网上订单管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Images/layoutImage/MRG/logo2_MRG.jpg"
+      ]
+    }
+  },  {
+    "product_name": "多客圈子论坛系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/static/index/js/jweixin-1.2.0.js"
+      ]
+    }
+  },  {
+    "product_name": "多客圈子论坛系统",
+    "company": "",
+    "level": 1,
+    "rules": {
+      "body": [
+        "AjaxMethods.asmx/GetCompanyItem"
+      ]
+    }
+  },  {
+    "product_name": "FOUNDER-全媒体采编系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "rgb(97, 103, 109)"
+      ]
+    }
+  },  {
+    "product_name": "飞讯云-WMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "wx8ccb75857bd3e985"
+      ]
+    }
+  },  {
+    "product_name": "蜂信物联",
+    "level": 1,
+    "rules": {
+      "body": [
+        "FastBee物联网系统"
+      ]
+    }
+  },  {
+    "product_name": "管家婆",
+    "level": 1,
+    "rules": {
+      "body": [
+        "image/V3login/1.gif",
+        "PlaceSelectBox"
+      ]
+    }
+  },  {
+    "product_name": "图书馆集群管理系统",
+    "company": "广州图创",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/interlib/common/authImage?time="
+      ]
+    }
+  },  {
+    "product_name": "国威HB1910数字程控电话交换机",
+    "level": 1,
+    "rules": {
+      "body": [
+        "themes/tenant/css/login.css"
+      ]
+    }
+  },  {
+    "product_name": "海信智能公交企业管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "var _FactoryData"
+      ]
+    }
+  },  {
+    "product_name": "汉塔科技-上网行为管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Antasys"
+      ]
+    }
+  },  {
+    "product_name": "杭州九麒科技_BigAnt-Admin",
+    "level": 1,
+    "rules": {
+      "body": [
+        "BigAnt Admin"
+      ]
+    }
+  },  {
+    "product_name": "杭州新威数字信息_SMG网关管理软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/conn/identifyingcode.php"
+      ]
+    }
+  },  {
+    "product_name": "号卡极团分销管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "尊敬的访客你好，你访问的地址暂未开放，请联系平台客服获取正确地址！"
+      ]
+    }
+  },  {
+    "product_name": "和丰多媒体信息发布系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/images/background/windows-bg.gif"
+      ]
+    }
+  },  {
+    "product_name": "虹安Heimdall",
+    "level": 1,
+    "rules": {
+      "body": [
+        "userReg/initUserReg.do"
+      ]
+    }
+  },  {
+    "product_name": "华测监测预警系统_HCCMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "chkRememberMe",
+        "item item-fore2 item-error"
+      ]
+    }
+  },  {
+    "product_name": "华望云会议管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "frame name=main noResize src=",
+        "/admin"
+      ]
+    }
+  },  {
+    "product_name": "汇智ERP",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/nssys/home/login.aspx"
+      ]
+    }
+  },  {
+    "product_name": "会捷通云视讯系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/him/api/rest/v1.0/node/role"
+      ]
+    }
+  },  {
+    "product_name": "吉大正元身份认证网关",
+    "level": 1,
+    "rules": {
+      "body": [
+        "不升级控件，继续使用",
+        "isAlreadyPNXGWClient"
+      ]
+    }
+  },  {
+    "product_name": "极简云验证",
+    "level": 1,
+    "rules": {
+      "body": [
+        "../assets/img/bg/logo_white.png"
+      ]
+    }
+  },  {
+    "product_name": "佳会视频会议",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/system/get_rtc_user_defined_info?site_id"
+      ]
+    }
+  },  {
+    "product_name": "金斗云",
+    "level": 1,
+    "rules": {
+      "body": [
+        "金斗云 Copyright"
+      ]
+    }
+  },  {
+    "product_name": "金和OA_C6",
+    "level": 1,
+    "rules": {
+      "body": [
+        "c6/Jhsoft.Web.login"
+      ]
+    }
+  },  {
+    "product_name": "金华迪加_现场大屏互动系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/wall/themes/meepo/assets/images/defaultbg.jpg"
+      ]
+    }
+  },  {
+    "product_name": "金华迪加_现场大屏互动系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "微信上墙首页"
+      ]
+    }
+  },  {
+    "product_name": "金慧-综合管理信息系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Portal/LoginBegin.aspx"
+      ]
+    }
+  },  {
+    "product_name": "金盘移动图书馆图书管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/scripts/dropdownlist.js",
+        "图书"
+      ]
+    }
+  },  {
+    "product_name": "鲸发卡系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/static/theme/maowang51/css/style.css"
+      ]
+    }
+  },  {
+    "product_name": "商业租赁管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "下载Silverlight插件"
+      ]
+    }
+  },  {
+    "product_name": "九块九付费进群系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/website/index/login.html"
+      ]
+    }
+  },  {
+    "product_name": "九思OA",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/jsoa/login.jsp"
+      ]
+    }
+  },  {
+    "product_name": "九垠赢+商业管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "九垠赢+"
+      ]
+    }
+  },  {
+    "product_name": "聚恒中台系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "hplus/css/images/logo1.png"
+      ]
+    }
+  },  {
+    "product_name": "福建科立讯通信有限公司指挥调度管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "指挥调度管理平台"
+      ]
+    }
+  },  {
+    "product_name": "科讯校园一卡通管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "http://www.ahkxsoft.com/"
+      ]
+    }
+  },  {
+    "product_name": "科汛新职教网校系统KesionEDU",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/KS_Inc/static/edu"
+      ]
+    }
+  },  {
+    "product_name": "蓝海卓越计费管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "蓝海卓越计费管理系统"
+      ]
+    }
+  },  {
+    "product_name": "蓝凌EIS智慧协同平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Scripts/jquery.landray.dialog.js"
+      ]
+    }
+  },  {
+    "product_name": "懒人网址导航页",
+    "level": 1,
+    "rules": {
+      "body": [
+        "./templates/antidote/css/style.css"
+      ]
+    }
+  },  {
+    "product_name": "朗速ERP",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Resource/Scripts/Yw/Yw_Bootstrap.js"
+      ]
+    }
+  },  {
+    "product_name": "联达动力OA",
+    "level": 1,
+    "rules": {
+      "body": [
+        "resource/images/login/f-style/top_pic01.jpg"
+      ]
+    }
+  },  {
+    "product_name": "脸爱云一脸通智慧管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "View/UserReserved/UserReservedTest.aspx"
+      ]
+    }
+  },  {
+    "product_name": "灵当CRM",
+    "level": 1,
+    "rules": {
+      "body": [
+        "crmcommon/js/jquery/jquery-1.10.1.min.js"
+      ]
+    }
+  },  {
+    "product_name": "灵当CRM",
+    "level": 1,
+    "rules": {
+      "body": [
+        "http://localhost:8088/crm/index.php",
+        "ldcrm.base.js"
+      ]
+    }
+  },  {
+    "product_name": "龙采商城系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "'url':'/pc2.0/index/index"
+      ]
+    }
+  },  {
+    "product_name": "龙腾码支付",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/epaydoc/epaydoc.php",
+        "/sdk"
+      ]
+    }
+  },  {
+    "product_name": "满客宝后台管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "满客宝后台管理系统"
+      ]
+    }
+  },  {
+    "product_name": "满客宝智慧食堂系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "餐饮收银系统，餐饮软件，餐饮收银软件，满客宝"
+      ]
+    }
+  },  {
+    "product_name": "美特CRM",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/common/scripts/basic.js"
+      ]
+    }
+  },  {
+    "product_name": "美团代付微信小程序系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/h5/static/js/chunk-vendors.js"
+      ]
+    }
+  },  {
+    "product_name": "秒优科技-供应链管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Content/images/login/username.png"
+      ]
+    }
+  },  {
+    "product_name": "明源地产ERP",
+    "level": 1,
+    "rules": {
+      "body": [
+        "明源地产ERP"
+      ]
+    }
+  },  {
+    "product_name": "明源云ERP报表服务",
+    "level": 1,
+    "rules": {
+      "body": [
+        "报表服务已正常运行"
+      ]
+    }
+  },  {
+    "product_name": "铭飞CMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "铭飞MCMS"
+      ],"body": [
+        "/mdiy/formData/save.do"
+      ],"body": [
+        "static/plugins/ms/1.0.0/ms.js"
+      ]
+    }
+  },  {
+    "product_name": "魔方网表ERP",
+    "level": 1,
+    "rules": {
+      "body": [
+        "url=/magicflu"
+      ]
+    }
+  },{
+    "product_name": "内训宝企业培训平台",
+    "level": 1,
+    "rules": {
+      "icon_hash": "-790843908"
+    }
+  },  {
+    "product_name": "内训宝企业培训平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "输入你想学的直播课程"
+      ]
+    }
+  },  {
+    "product_name": "欧澳PicHome",
+    "level": 1,
+    "rules": {
+      "body": [
+        "data/attachment/sitelogo/sitelogo.png"
+      ]
+    }
+  },  {
+    "product_name": "苹果IOS端IPA签名工具",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/assets/index/css/mobileSelect.css"
+      ]
+    }
+  },  {
+    "product_name": "普华-PowerPMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "verifyCodeGroup",
+        "width:200px"
+      ]
+    }
+  },  {
+    "product_name": "企望制造ERP系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/javascript/img/wit.jpg"
+      ]
+    }
+  },  {
+    "product_name": "青铜器RDM研发管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/images/rdm.ico"
+      ]
+    }
+  },  {
+    "product_name": "全程云OA",
+    "level": 1,
+    "rules": {
+      "body": [
+        "images/yipeoplehover.png"
+      ]
+    }
+  },  {
+    "product_name": "全新优客API接口管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "public/static/index/css/flaghome.css"
+      ]
+    }
+  },  {
+    "product_name": "热网无线监测系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Downloads/HDPrintInstall.rar"
+      ],"body": [
+        "skins/login/images/btn_login.jpg"
+      ]
+    }
+  },  {
+    "product_name": "任子行网络安全审计系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "任子行网络安全审计系统"
+      ]
+    }
+  },  {
+    "product_name": "锐捷校园网自助服务系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "校园网自助服务系统"
+      ]
+    }
+  },  {
+    "product_name": "锐捷EWEB路由器",
+    "level": 1,
+    "rules": {
+      "body": [
+        "锐捷网络-EWEB网管系统"
+      ]
+    }
+  },  {
+    "product_name": "锐捷RG-EW1200G",
+    "level": 1,
+    "rules": {
+      "body": [
+        "app.2fe6356cdd1ddd0eb8d6317d1a48d379.css"
+      ]
+    }
+  },  {
+    "product_name": "锐明技术Mangrove系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Mvsp/RegisterLogin/Default.do"
+      ]
+    }
+  },  {
+    "product_name": "锐明Crocus系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "inp_verification"
+      ]
+    }
+  },  {
+    "product_name": "瑞斯康达-多业务智能网关",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/images/raisecom/back.gif"
+      ]
+    }
+  },  {
+    "product_name": "睿贝外贸ERP",
+    "level": 1,
+    "rules": {
+      "body": [
+        "loginNeedMobileNumVerification"
+      ]
+    }
+  },  {
+    "product_name": "润申信息企业标准化管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "PDCA/js/_publicCom.js"
+      ]
+    }
+  },  {
+    "product_name": "赛蓝企业管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Home6/AdminPretty"
+      ]
+    }
+  },  {
+    "product_name": "赛诸葛数字化智能中台系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "static/index/image/login_left.png"
+      ]
+    }
+  },  {
+    "product_name": "三汇_SMG_网关管理软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "conn/identifyingcode.php"
+      ]
+    }
+  },  {
+    "product_name": "商混ERP系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "background-color:#2D66AD"
+      ]
+    }
+  },  {
+    "product_name": "上海网仕科技",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/webtrans/index.php?controller=user&action=login"
+      ]
+    }
+  },  {
+    "product_name": "上讯信息_InforCube运维管理审计系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "default/getloginhtml"
+      ]
+    }
+  },  {
+    "product_name": "申瓯通信_在线录音管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "在线录音管理系统"
+      ]
+    }
+  },  {
+    "product_name": "深科特LEAN MES系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Content/js/skt.utility.checkmobile.js"
+      ],"body": [
+        "../MobileApp/VerifyError.aspx"
+      ],"body": [
+        "Content/login/js/login.2.0.min.js"
+      ],"body": [
+        "Content/login/login2/multiplant_top.png"
+      ]
+    }
+  },  {
+    "product_name": "深澜计费管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/js/lib/slimscroll.js"
+      ]
+    }
+  },  {
+    "product_name": "神州数码",
+    "level": 1,
+    "rules": {
+      "body": [
+        "style/blue/css/dcn_ui.css"
+      ]
+    }
+  },  {
+    "product_name": "神州讯盟芯管家",
+    "level": 1,
+    "rules": {
+      "body": [
+        "神州讯盟芯管家"
+      ]
+    }
+  },  {
+    "product_name": "神州讯盟芯管家",
+    "level": 1,
+    "rules": {
+      "body": [
+        "css/markdown.css",
+        "icon-512.png"
+      ]
+    }
+  },  {
+    "product_name": "圣乔ERP系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "圣乔ERP系统"
+      ]
+    }
+  },  {
+    "product_name": "时空智友企业信息管理",
+    "level": 1,
+    "rules": {
+      "body": [
+        "时空智友企业信息管理"
+      ]
+    }
+  },  {
+    "product_name": "时空WMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "SKControlKLForJson.ashx"
+      ]
+    }
+  },  {
+    "product_name": "世邦通信SPON",
+    "level": 1,
+    "rules": {
+      "body": [
+        "vendors/toastr-master/build/toastr.min.js"
+      ]
+    }
+  },  {
+    "product_name": "数夫CRM客户关系管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Images/Login/soonfor_logo.png"
+      ]
+    }
+  },  {
+    "product_name": "数字通云平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "assets/8cca19ff/css/bootstrap-yii.css"
+      ]
+    }
+  },  {
+    "product_name": "顺景ERP",
+    "level": 1,
+    "rules": {
+      "body": [
+        "顺景软件 WebAPI 服务端"
+      ]
+    }
+  },  {
+    "product_name": "思普企业运营管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/CheckLogin?p=ui"
+      ]
+    }
+  },  {
+    "product_name": "速达软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "速达软件技术（广州）有限公司",
+        "jslib/extjs2.3/view/PasswordField.js"
+      ]
+    }
+  },  {
+    "product_name": "泰博云平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "泰博云平台"
+      ]
+    }
+  },  {
+    "product_name": "天融信上网行为管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/images/arrow03.png",
+        "400-7770777"
+      ]
+    }
+  },   {
+    "product_name": "天锐绿盾审批系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "location.href=location.href+\"trwfe"
+      ]
+    }
+  },  {
+    "product_name": "天问物业ERP系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "天问物业ERP系统"
+      ],"body": [
+        "国家版权局软著登字第1205328号"
+      ],"body": [
+        "/HM/M_Main/frame/sso.aspx"
+      ],"body": [
+        "/HM/M_Main/frame/Login"
+      ]
+    }
+  },  {
+    "product_name": "天智云智造管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Ashx/Usermanager.ashx"
+      ]
+    }
+  },  {
+    "product_name": "停车场后台管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Static/img/icon/icon_logo.svg"
+      ]
+    }
+  },  {
+    "product_name": "EAA益和应用接入系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "EAA益和应用接入系统"
+      ]
+    }
+  },  {
+    "product_name": "通天星",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/808gps/"
+      ]
+    }
+  },  {
+    "product_name": "同望OA",
+    "level": 1,
+    "rules": {
+      "body": [
+        "loginAction.struts?actionType=blockLogin"
+      ]
+    }
+  },  {
+    "product_name": "同享人力资源管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Assistant/Default.aspx"
+      ]
+    }
+  },  {
+    "product_name": "同鑫eHR人力资源管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/TX.CDN"
+      ]
+    }
+  },  {
+    "product_name": "万能门店小程序管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/comhome/cases/index.html"
+      ]
+    }
+  },  {
+    "product_name": "网康NS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "注册本地认证用",
+        "网康NS"
+      ]
+    }
+  },  {
+    "product_name": "网神SecFox",
+    "level": 1,
+    "rules": {
+      "body": [
+        "./static/js/vendor.022b3d3adf3423f31f54.js"
+      ]
+    }
+  },  {
+    "product_name": "微商城系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Mao_Public/js/jquery-2.1.1.min.js"
+      ]
+    }
+  },  {
+    "product_name": "微信公众号小说漫画系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Public/home/mhjs/jquery.js"
+      ]
+    }
+  },  {
+    "product_name": "微信公众平台无限回调系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "mb-5 web-font-desc"
+      ]
+    }
+  },  {
+    "product_name": "微信活码系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        ".qn-user-login"
+      ]
+    }
+  },  {
+    "product_name": "唯徳知识产权管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "JSCOMM/language.js"
+      ]
+    }
+  },  {
+    "product_name": "维达外贸客户关系管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "维达外贸客户关系管理系统"
+      ]
+    }
+  },  {
+    "product_name": "无忧网络验证系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "zhuya/js/base.js"
+      ]
+    }
+  },  {
+    "product_name": "西部数据",
+    "level": 1,
+    "rules": {
+      "body": [
+        "WDLabelBodyDialogue body",
+        "WDLabelHeaderDialogueIcon"
+      ]
+    }
+  },  {
+    "product_name": "移动门店管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "西联软件提供云计算服务"
+      ]
+    }
+  },  {
+    "product_name": "协众OA",
+    "level": 1,
+    "rules": {
+      "body": [
+        "index.php?app=main&func=common&action=commonJob&act=authcode"
+      ]
+    }
+  },  {
+    "product_name": "新视窗新一代物业管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "BPMSite/ClientSupport/OCXInstall.aspx"
+      ]
+    }
+  },  {
+    "product_name": "学分制系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "www.pantosoft.com",
+        "Pantosoft Corporation"
+      ]
+    }
+  },  {
+    "product_name": "妖气山视频管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "yaoqishan-header"
+      ]
+    }
+  },  {
+    "product_name": "要塞T3",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/mlogin.htm?url="
+      ],"body": [
+        "T3/MAIN/Login.aspx"
+      ]
+    }
+  },  {
+    "product_name": "医院一站式后勤管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "frameworkModuleJob"
+      ]
+    }
+  },  {
+    "product_name": "亿华考勤软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "document.getElementById('hid_usertype2').value=document.getElementById"
+      ]
+    }
+  },  {
+    "product_name": "易宝OA",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/ApiHelp/Index",
+        "/Images/login/light.png"
+      ]
+    }
+  },  {
+    "product_name": "易思智能物流无人值守系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/api/SingleLogin"
+      ]
+    }
+  },  {
+    "product_name": "英飞达医学影像存档与通信系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "OnClickNoticeAgree()",
+        "input_change"
+      ],"body": [
+        "/GenericErrorPage.htm?aspxerrorpath=/"
+
+      ]
+    }
+    
+  },  {
+    "product_name": "友数聚_CPAS审计管理系统V4",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/cpasm4/static/cap/font/iconfont.css"
+      ],"body": [
+        "/cpasm4/login"
+      ]
+    }
+  },  {
+    "product_name": "PView_视音频管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "PView 视音频管理平台"
+      ]
+    }
+  },  {
+    "product_name": "原创先锋",
+    "level": 1,
+    "rules": {
+      "body": [
+        "https://www.bjycxf.com"
+      ]
+    }
+  },  {
+    "product_name": "月子护理ERP管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "月子护理ERP管理平台"
+      ],"body": [
+        "妈妈宝盒客户端.rar"
+      ],"body": [
+        "Page/Login/Login3.aspx"
+      ]
+    }
+  },  {
+    "product_name": "悦库企业网盘",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/user/login/HASH.html",
+        "self.location.hash"
+      ]
+    }
+  },  {
+    "product_name": "云连POS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/admin/page",
+        "系统启动中..."
+      ]
+    }
+  },  {
+    "product_name": "云时空社会化商业ERP系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "尽快联系运营商注册程序,以免影响业务正常运营",
+        "短信验证码"
+      ]
+    }
+  },  {
+    "product_name": "章管家",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/web/setcookie/i18n.htm?langType=zh"
+      ]
+    }
+  },  {
+    "product_name": "浙大恩特客户资源管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "script/Ent.base.js"
+      ]
+    }
+  },  {
+    "product_name": "真内控国产化开发平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "js/npm.echarts.js"
+      ]
+    }
+  },  {
+    "product_name": "正阳天下水控系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "VerifyCode.ashx",
+        "442DF5CE"
+      ]
+    }
+  },  {
+    "product_name": "TMS运输管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "body=\"/Images/ManLogin/name.png\""
+      ]
+    }
+  },  {
+    "product_name": "知识吾爱纯净版小程序系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "域名/skdjfdf"
+      ]
+    }
+  },  {
+    "product_name": "智慧综合管理平台登入",
+    "level": 1,
+    "rules": {
+      "body": [
+        "智慧综合管理平台登入"
+      ]
+    }
+  },  {
+    "product_name": "智联云采",
+    "level": 1,
+    "rules": {
+      "body": [
+        "SRM 2.0"
+      ]
+    }
+  },  {
+    "product_name": "中成科信票务管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "欢迎使用综合管控平台接口"
+      ],"body": [
+        "/Images/iconscj_succ.png"
+      ],"body": [
+        "images/login/img_distri.png"
+      ]
+    }
+  },  {
+    "product_name": "中科博华网龙网关",
+    "level": 1,
+    "rules": {
+      "body": [
+        "background-image:url(images/fr.jpg)"
+      ]
+    }
+  },  {
+    "product_name": "中小学智慧校园信息管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Login/IndexMobi"
+      ]
+    }
+  },  {
+    "product_name": "众诚网上订单系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "padding:5px 0px;width:100%;",
+        "login_user_pwd"
+      ]
+    }
+  },  {
+    "product_name": "众智OA办公系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Account/Login?ACT=Index"
+      ]
+    }
+  },  {
+    "product_name": "家装ERP管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "0.1;url=main/login.htm",
+        "charset=gb2312"
+      ],"body": [
+        "家装ERP管理系统"
+      
+      ]
+    }
+  },  {
+    "product_name": "卓软计量业务管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/pageoffice/posetup.exe"
+      ]
+    }
+  },  {
+    "product_name": "紫光电子档案管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "www.unissoft.com"
+      ]
+    }
+  },  {
+    "product_name": "综合监管云平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Download/DownFile?fileName=SetUp.exe"
+      ]
+    }
+  },  {
+    "product_name": "AgentSyste代理商管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "AgentSyste"
+      ]
+    }
+  },  {
+    "product_name": "AJ-Report开源数据大屏",
+    "level": 1,
+    "rules": {
+      "body": [
+        "AJ-Report"
+      ]
+    }
+  },  {
+    "product_name": "Altenergy电力系统控制软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Altenergy Power Control Software"
+      ]
+    }
+  },  {
+    "product_name": "App托管服务分发平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/api/statistics/service-usage-amount"
+      ]
+    }
+  },  {
+    "product_name": "ArcGIS_地理信息系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "arcgis/rest/services"
+      ]
+    }
+  },  {
+    "product_name": "AVCON-系统管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "AVCON-系统管理平台"
+      ]
+    }
+  },  {
+    "product_name": "B-LINK",
+    "level": 1,
+    "rules": {
+      "body": [
+        "B-LINK",
+        "admin/images/loading.gif"
+      ]
+    }
+  },  {
+    "product_name": "BladeX企业级开发平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "https://bladex.vip"
+      ]
+    }
+  },  {
+    "product_name": "Cloudlog_电台日志系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Something went wrong. Please try again!",
+        "additionalOffset"
+      ]
+    }
+  },  {
+    "product_name": "CRMEB开源电商系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "CRMEB",
+        "/app.js"
+      ]
+    }
+  },  {
+    "product_name": "CrushFtp",
+    "level": 1,
+    "rules": {
+      "body": [
+        "CrushFTP WebInterface"
+      ]
+    }
+  },  {
+    "product_name": "WAGO系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Web-based Management"
+      ]
+    }
+  },  {
+    "product_name": "CyberPanel",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Powered By OpenLiteSpeed"
+      ]
+    }
+  } ,  {
+    "product_name": "D-Link_NAS设备",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/web/images/logo2.png",
+        "SSL Login"
+      ]
+    }
+  },  {
+    "product_name": "DataEase",
+    "level": 1,
+    "rules": {
+      "body": [
+        "DataEase"
+      ]
+    }
+  },   {
+    "product_name": "Docassemble_interview",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Congratulations",
+        "Display the menu"
+      ]
+    }
+  },  {
+    "product_name": "DT-高清车牌识别摄像机",
+    "level": 1,
+    "rules": {
+      "body": [
+        "高清车牌识别摄像机",
+        "测到未安装控件,请点击下载安装"
+      ]
+    }
+  },  {
+    "product_name": "EasyCVR-视频管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "EasyCVR"
+      ]
+    }
+  },  {
+    "product_name": "EDU_某智慧平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "ustom/blue/uimaker/easyui.css"
+      ]
+    }
+  },  {
+    "product_name": "EKing-管理易",
+    "level": 1,
+    "rules": {
+      "body": [
+        "系统导入中...",
+        "如果您系统安装了工具栏"
+      ]
+    }
+  },  {
+    "product_name": "EKing-管理易",
+    "level": 1,
+    "rules": {
+     "body": [
+        "易凯软件"
+       
+      ]
+    }
+  },  {
+    "product_name": "Elber_Wayber",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Elber Satellite Equipment"
+      ]
+    }
+  },  {
+    "product_name": "electrolink",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Electrolink",
+        "Remote Control"
+      ]
+    }
+  },  {
+    "product_name": "elestio_memos",
+    "level": 1,
+    "rules": {
+      "body": [
+        "memos.metadata.head"
+      ]
+    }
+  },  {
+    "product_name": "emlog",
+    "level": 1,
+    "rules": {
+      "body": [
+        "采用emlog系统"
+      ]
+    }
+  },  {
+    "product_name": "EnGenius",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/web/images/guest.png",
+        "/web/images/admin.png"
+      ]
+    }
+  },  {
+    "product_name": "F22服装管理软件系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "b28web/Utility/"
+      ]
+    }
+  },  {
+    "product_name": "FastAdmin后台开发框架",
+    "level": 1,
+    "rules": {
+      "body": [
+        "fastadmin.net"
+      ]
+    }
+  },  {
+    "product_name": "FastAdmin后台开发框架",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<h1>fastadmin</h1>",
+        "fastadmin"
+      ]
+    }
+  },  {
+    "product_name": "FOG_Project",
+    "level": 1,
+    "rules": {
+      "body": [
+        "FOG Project"
+      ]
+    }
+  },  {
+    "product_name": "FOXCMS黔狐内容管理",
+    "level": 1,
+    "rules": {
+      "body": [
+        "foxcms-logo"
+      ]
+    }
+  },  {
+    "product_name": "FOXCMS黔狐内容管理",
+    "level": 1,
+    "rules": {
+      "body": [
+        "foxcms-logo"
+      ]
+    }
+  },  {
+    "product_name": "FREEDOM",
+    "level": 1,
+    "rules": {
+      "body": [
+        "FREEDOM Administration"
+      ]
+    }
+  },  {
+    "product_name": "GB28181摄像头管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "国标28181"
+      ]
+    }
+  },  {
+    "product_name": "H5_云商城",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/public/qbsp.php"
+      ]
+    }
+  },  {
+    "product_name": "HSC_Mailinspector",
+    "level": 1,
+    "rules": {
+      "body": [
+        "mailinspector/public"
+      ]
+    }
+  },  {
+    "product_name": "I_Doc_View",
+    "level": 1,
+    "rules": {
+      "body": [
+        "在线文档预览 - I Doc View"
+      ]
+    }
+  },  {
+    "product_name": "InvisionCommunity",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Invision",
+        "ips4"
+      ]
+    }
+  },  {
+    "product_name": "Ivanti_Endpoint_Manager_Mobile",
+    "level": 1,
+    "rules": {
+      "icon_hash": "362091310"
+
+    }
+  },  {
+    "product_name": "JeeWMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "url:userController.do?userOrgSelect&userId=",
+        "loginController.do?changeDefaultOrg"
+      ]
+    }
+  },  {
+    "product_name": "JEPaaS低代码平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/saas/saasYhAction!sendRandom.action"
+      ]
+    }
+  },  {
+    "product_name": "JieLink_智能终端操作平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "JieLink",
+        "智能终端操作平台"
+      ]
+    }
+  },  {
+    "product_name": "Journyx项目管理软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Journyx"
+      ]
+    }
+  },  {
+    "product_name": "phoenix监控平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "cu/images/top_sanjiao.png",
+        "logo_cn"
+      ]
+    }
+  },  {
+    "product_name": "KingPortal客户端开发系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/public/javascripts/Common/Util/km_util.js"
+      ]
+    }
+  },  {
+    "product_name": "Langflow",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Langflow",
+        "JavaScript"
+      ]
+    }
+  },  {
+    "product_name": "LaRecipe",
+    "level": 1,
+    "rules": {
+      "body": [
+        "LaRecipe",
+        "/larecipe/"
+      ]
+    }
+  },  {
+    "product_name": "LaRecipe",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/docs/1.0/overview#section"
+      ]
+    }
+  },  {
+    "product_name": "Letta",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Letta</title>"
+      ]
+    }
+  },  {
+    "product_name": "Letta",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Letta Platform"
+      ]
+    }
+  },  {
+    "product_name": "LiveBOS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Power by LiveBOS"
+      ]
+    }
+  },  {
+    "product_name": "LVS精益价值管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/ajax/LVS.Core.Common.STSResult,LVS.Core.Common.ashx"
+      ]
+    }
+  },{
+    "product_name": "LVS精益价值管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Business/UserLogin.aspx"
+      ]
+    }
+  },  {
+    "product_name": "M7s_UI",
+    "level": 1,
+    "rules": {
+      "body": [
+        "static/js/chunk-libs.9540f991.js"
+      ]
+    }
+  },  {
+    "product_name": "MajorDoMo",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>MajordomoSL</title>"
+      ]
+    }
+  },  {
+    "product_name": "MasterSAM",
+    "level": 1,
+    "rules": {
+      "body": [
+        "MasterSAM"
+      ]
+    }
+  },  {
+    "product_name": "Meteobridge",
+    "level": 1,
+    "rules": {
+      "body": [
+        "./cgi-bin/meteobridge",
+        "Meteobridge"
+      ]
+    }
+  },  {
+    "product_name": "Microsoft_SharePointServer",
+    "level": 1,
+    "rules": {
+      "header": [
+        "MicrosoftSharePointTeamServices"
+      ]
+    }
+  },  {
+    "product_name": "Mitel_MiCollab",
+    "level": 1,
+    "rules": {
+      "body": [
+        "MiCollab End User Portal"
+      ]
+    }
+  },  {
+    "product_name": "mojoPortal",
+    "level": 1,
+    "rules": {
+      "body": [
+        "http://www.mojoportal.com"
+      ]
+    }
+  },  {
+    "product_name": "Mtab书签导航程序",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Mtab书签</title>"
+      ]
+    }
+  },  {
+    "product_name": "NAVIDROME",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Navidrome</title>"
+      ]
+    }
+  },  {
+    "product_name": "Netgear_WN604",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<TITLE>Netgear</TITLE>"
+      ]
+    }
+  },  {
+    "product_name": "NetMizer",
+    "level": 1,
+    "rules": {
+      "body": [
+        "title>NetMizer 日志管理系统</title>"
+      ]
+    }
+  },  {
+    "product_name": "Next.js框架",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/_next/static"
+      ]
+    }
+  },  {
+    "product_name": "NUUO网络视频录像机",
+    "level": 1,
+    "rules": {
+      "body": [
+        "www.nuuo.com/eHelpdesk.php"
+      ]
+    }
+  },  {
+    "product_name": "Ollama",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Ollama is running"
+      ]
+    }
+  },  {
+    "product_name": "OpenMetadata",
+    "level": 1,
+    "rules": {
+      "body": [
+        "OpenMetadata Application",
+        "window.BASE_PATH"
+      ]
+    }
+  },  {
+    "product_name": "Optilink",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/html/css/dxtdata.css"
+      ]
+    }
+  },  {
+    "product_name": "PagerMaid-Pyro后台管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "PagerMaid",
+        "\"brandName\": \"pagermaid\","
+      ]
+    }
+  },  {
+    "product_name": "宏脉医美行业管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>登录页面-宏脉医美行业管理系统</title>"
+      ]
+    }
+  },  {
+    "product_name": "Palo_Alto_Networks_Expedition",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Expedition Project</title>"
+      ]
+    }
+  },  {
+    "product_name": "Panalog_日志审计系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Maintain/cloud_index.php"
+      ]
+    }
+  },  {
+    "product_name": "PEPM_系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        " 0 秒后为您跳转, 或",
+        "请登录系统"
+      ]
+    }
+  },  {
+    "product_name": "PHP_CGI",
+    "level": 1,
+    "rules": {
+      "header": [
+        "Xampps_info"
+      ]
+    }
+  },  {
+    "product_name": "PHP_CGI",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/xampps.jpg"
+      ]
+    }
+  },  {
+    "product_name": "PHP_CGI",
+    "level": 1,
+    "rules": {
+      "body": [
+        "content=\"Kai Oswald Seidler\">"
+      ]
+    }
+  },  {
+    "product_name": "PHP_CGI",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>XAMPP Version"
+      ]
+    }
+  },  {
+    "product_name": "PHP_CGI",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>XAMPP for"
+      ]
+    }
+  },  {
+    "product_name": "Pichome",
+    "level": 1,
+    "rules": {
+      "body": [
+        "headerkeywordInput",
+        "切换页面配色"
+      ]
+    }
+  },  {
+    "product_name": "PowerCreator_CMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "PowerCreator CMS"
+      ]
+    }
+  },  {
+    "product_name": "HFS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "HFS = { folder:'/', number:3, paged:1 };"
+      ]
+    }
+  },  {
+    "product_name": "Rejetto",
+    "level": 1,
+    "rules": {
+      "body": [
+        "http://www.rejetto.com/hfs/"
+      ]
+    }
+  },  {
+    "product_name": "RuvarOA协同办公平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "txt_admin_key"
+      ]
+    }
+  },  {
+    "product_name": "SawtoothSoftware",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Lighthouse Studio"
+      ]
+    }
+  },  {
+    "product_name": "Secnet-智能路由",
+    "level": 1,
+    "rules": {
+      "body": [
+        "安网-智能路由系统"
+      ]
+    }
+  },  {
+    "product_name": "Secnet-智能路由",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>智能路由系统</title>"
+      ]
+    }
+  },  {
+    "product_name": "Secnet-智能路由",
+    "level": 1,
+    "rules": {
+      "body": [
+        "安网科技-智能路由系统"
+      ]
+    }
+  },  {
+    "product_name": "Secnet-智能路由",
+    "level": 1,
+    "rules": {
+      "body": [
+        "智能AC管理系统"
+      ]
+    }
+  },  {
+    "product_name": "Nexus_Repository",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Sonatype Nexus Repository</title>"
+      ]
+    }
+  },  {
+    "product_name": "Nexus_Repository",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Nexus Repository Manager</title>"
+      ]
+    }
+  },  {
+    "product_name": "SparkShop开源商城",
+    "level": 1,
+    "rules": {
+      "body": [
+        "SparkShop"
+      ]
+    }
+  },  {
+    "product_name": "SPIP_porte_plume插件",
+    "level": 1,
+    "rules": {
+      "header": [
+        "Composed-By: SPIP"
+      ]
+    }
+  },  {
+    "product_name": "Splunk_Enterprise",
+    "level": 1,
+    "rules": {
+      "header": [
+        "systemrequirements",
+        "getElementById",
+        "supported"
+      ]
+    }
+  },  {
+    "product_name": "SuiteCRM",
+    "level": 1,
+    "rules": {
+      "header": [
+        "<title>SuiteCRM</title>"
+      ]
+    }
+  },  {
+    "product_name": "SysAid",
+    "level": 1,
+    "rules": {
+      "header": [
+        "<title>SysAid Help Desk Software</title>"
+      ]
+    }
+  },  {
+    "product_name": "UNACMS",
+    "level": 1,
+    "rules": {
+      "header": [
+        "Powered by UNA"
+      ]
+    }
+  },  {
+    "product_name": "TVT数码科技",
+    "level": 1,
+    "rules": {
+      "header": [
+        "window.location.href = \"Pages/login.htm\";",
+        "text/javascript"
+      ]
+    }
+  },  {
+    "product_name": "Vite",
+    "level": 1,
+    "rules": {
+      "header": [
+        "/@vite/client"
+      ]
+    }
+  },  {
+    "product_name": "WIFISKY_7层流控路由器",
+    "level": 1,
+    "rules": {
+      "header": [
+        "<title>WIFISKY 7层流控路由器</title>"
+      ]
+    }
+  },  {
+    "product_name": "WookTeam",
+    "level": 1,
+    "rules": {
+      "header": [
+        "<title>Wookteam</title>"
+      ]
+    }
+  },  {
+    "product_name": "YourPHPCMS",
+    "level": 1,
+    "rules": {
+      "header": [
+        "YP_onlineid"
+      ]
+    }
+  },  {
+    "product_name": "YzmCMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Powered By YzmCMS"
+      ]
+    }
+  },  {
+    "product_name": "Zyxel_NAS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/cmd,/ck6fup6/user_grp_cgi/cgi_modify_userinfo"
+      ]
+    }
+  },  {
+    "product_name": "UAS管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>优企云服</title>"
+      ]
+    }
+  },  {
+    "product_name": "UAS管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "深圳优软科技有限公司"
+      ]
+    }
+  },  {
+    "product_name": "UAS管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "saas.ubtob.com,erp,scm,crm,mrp,企业管理,优软,优软科技,优企云服,优软ERP,SAAS,供应链"
+      ]
+    }
+  },  {
+    "product_name": "HCM-Cloud:",
+    "level": 1,
+    "rules": {
+      "body": [
+        "inPageLoginMethod",
+        "documentElement"
+      ]
+    }
+  },{
+    "product_name": "HCM-Cloud:",
+    "level": 1,
+    "rules": {
+      "body": [
+        "h-c-main-frame",
+        "/static/resources"
+      ]
+    }
+  },  {
+    "product_name": "金蝶天燕",
+    "level": 1,
+    "rules": {
+      "header": [
+        "Apusic"
+      ]
+    }
+  },  {
+    "product_name": "金蝶天燕",
+    "level": 1,
+    "rules": {
+      "body": [
+        "eassso/login.html"
+      ]
+    }
+  },  {
+    "product_name": "金蝶天燕",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/eassso/"
+      ]
+    }
+  },  {
+    "product_name": "金蝶天燕",
+    "level": 1,
+    "rules": {
+      "header": [
+        "EASSESSIONID"
+      ]
+    }
+  },  {
+    "product_name": "天融信运维安全审计系统",
+    "level": 1,
+    "rules": {
+      "header": [
+        "iam",
+        "Apache-Coyote"
+      ]
+    }
+  },  {
+    "product_name": "运维管理审计系统",
+    "level": 1,
+    "rules": {
+      "header": [
+        "/default/switchlocale"
+      ]
+    }
+  },  {
+    "product_name": "运维管理审计系统",
+    "level": 1,
+    "rules": {
+      "header": [
+        "default/getloginhtml"
+      ]
+    }
+  },  {
+    "product_name": "快普M6",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Resource/JavaScript/jKPM6.DateTime.js"
+      ]
+    }
+  },  {
+    "product_name": "索贝融媒体",
+    "level": 1,
+    "rules": {
+      "body": [
+        "{'hideHeader': hideHeader}",
+        "app-body"
+      ]
+    }
+  },  {
+    "product_name": "索贝融媒体",
+    "level": 1,
+    "rules": {
+      "body": [
+        "You need to enable JavaScript to run this app.",
+        "shape shape2"
+      ]
+    }
+  },  {
+    "product_name": "孚盟云",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Ajax/AjaxMethod.ashx"
+      ]
+    }
+  },  {
+    "product_name": "Apache_Druid",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Apache Druid</title>"
+      ]
+    }
+  },  {
+    "product_name": "kkFileView",
+    "level": 1,
+    "rules": {
+      "body": [
+        "https://kkview.cn"
+      ]
+    }
+  },  {
+    "product_name": "傲发办公通信专家",
+    "level": 1,
+    "rules": {
+      "body": [
+        "getincommingcall"
+      ]
+    }
+  },  {
+    "product_name": "扁鹊飞救智能急救与质控系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Index.aspx?sr=exper"
+      ]
+    }
+  },  {
+    "product_name": "扁鹊飞救智能急救与质控系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "jmrsa(str)",
+        "encrypt"
+      ]
+    }
+  },  {
+    "product_name": "星网锐捷_DMB_BS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/dmb/js/ext-ex"
+      ]
+    }
+  },  {
+    "product_name": "智邦国际ERP",
+    "level": 1,
+    "rules": {
+      "body": [
+        "SYSA/parentPath.asp"
+      ]
+    }
+  },  {
+    "product_name": "智慧校园综合管理平台_安校易",
+    "level": 1,
+    "rules": {
+      "body": [
+        "img/login/bg_left.png",
+        "请输入用户名"
+      ]
+    }
+  },  {
+    "product_name": "AstrBot",
+    "level": 1,
+    "rules": {
+      "body": [
+        "AstrBot Dashboard"
+      ]
+    }
+  } ,{
+    "product_name": "Dify_AI_系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/_next/static/chunks/app/(commonLayout)/apps"
+      ]
+    }
+  },  {
+    "product_name": "RicohWebImageMonitor",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Web Image Monitor"
+      ]
+    }
+  },  {
+    "product_name": "Tosei",
+    "level": 1,
+    "rules": {
+      "body": [
+        "tosei_login_check.php"
+      ]
+    }
+  },  {
+    "product_name": "XWiki",
+    "level": 1,
+    "rules": {
+      "body": [
+        "data-xwiki-reference"
+      ]
+    }
+  },  {
+    "product_name": "安克医疗_急救办公管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/Content/easyui1.3.3/themes"
+      ]
+    }
+  },  {
+    "product_name": "PowerCreatorCMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "MediaServerInfo.aspx"
+      ]
+    }
+  },  {
+    "product_name": "SPIP",
+    "level": 1,
+    "rules": {
+      "header": [
+        "Composed-By: SPIP"
+      ]
+    }
+  },  {
+    "product_name": "PaloAlto",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Expedition Project</title>"
+      ]
+    }
+  },  {
+    "product_name": "PagerMaid",
+    "level": 1,
+    "rules": {
+      "body": [
+        "https://xtaolabs.com/pagermaid-logo.png",
+        "PagerMaid-Pyro"
+      ]
+    }
+  },  {
+    "product_name": "PEPM",
+    "level": 1,
+    "rules": {
+      "header": [
+        "pepm"
+      ]
+    }
+  },  {
+    "product_name": "Optilink",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/html/css/dxtdata.css"
+      ]
+    }
+  },  {
+    "product_name": "H3C_iMC智能管理中心",
+    "level": 1,
+    "rules": {
+      "body": [
+        "用户自助服",
+        "/selfservice/javax.faces.resource/"
+      ]
+    }
+  },  {
+    "product_name": "H3C_iMC智能管理中心",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/selfservice/index.xhtml"
+      ]
+    }
+  },  {
+    "product_name": "CraftCMS",
+    "level": 1,
+    "rules": {
+      "header": [
+        "X-Powered-By: Craft CMS"
+      ]
+    }
+  },  {
+    "product_name": "Commvault",
+    "level": 1,
+    "rules": {
+      "header": [
+        "Server: Commvault"
+      ]
+    }
+  },  {
+    "product_name": "Commvault",
+    "level": 1,
+    "rules": {
+      "body": [
+        "cvUtil.CONTEXT_PATH = '/webconsole"
+      ]
+    }
+  },  {
+    "product_name": "云安宝",
+    "level": 1,
+    "rules": {
+      "body": [
+        "云安宝·云匣子"
+      ]
+    }
+  },  {
+    "product_name": "佑友防火墙",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>佑友防火墙</title>"
+      ]
+    }
+  },  {
+    "product_name": "海洋_CMS_SeaCMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/templets/default/images/css/mytheme-font.css"
+      ]
+    }
+  },  {
+    "product_name": "狮子鱼CMS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/seller.php?s=/Public/login"
+      ]
+    }
+  },  {
+    "product_name": "TamronOS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "TamronOS IPTV/VOD系统"
+      ]
+    }
+  },  {
+    "product_name": "拓尔思_NAS",
+    "level": 1,
+    "rules": {
+      "body": [
+        "TRS媒资管理系统登录页面"
+      ]
+    }
+  },  {
+    "product_name": "某彩票",
+    "level": 1,
+    "rules": {
+      "body": [
+        "newindex/static/js/16070610231968312.js"
+      ]
+    }
+  },  {
+    "product_name": "Kyan_网络监控设备",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Qmatic Platform Login page </title>"
+      ]
+    }
+  },  {
+    "product_name": "IP网络对讲广播系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "./GoogleMapAPIV3/markerwithlabel.js",
+        "apple-mobile-web-app-capable"
+      ]
+    }
+  },   {
+    "product_name": "IP_guard",
+    "level": 1,
+    "rules": {
+      "body": [
+        "IP-guard"
+      ]
+    }
+  },  {
+    "product_name": "I_Doc_View",
+    "level": 1,
+    "rules": {
+      "body": [
+        "在线文档预览 - I Doc View"
+      ]
+    }
+  },  {
+    "product_name": "IceWarp_WebClient",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>VKNet Webmail</title>"
+      ]
+    }
+  },  {
+    "product_name": "FLIR_AX8",
+    "level": 1,
+    "rules": {
+      "body": [
+        "FLIR AX8 71235871"
+      ]
+    }
+  },  {
+    "product_name": "飞视美_视频会议系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "欢迎登录视频会议系统",
+        "飞视美"
+      ]
+    }
+  },  {
+    "product_name": "Evolucare",
+    "level": 1,
+    "rules": {
+      "body": [
+        "ECSimaging"
+      ]
+    }
+  },  {
+    "product_name": "极企智能办公路由",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>极企智能办公路由</title>"
+      ]
+    }
+  },  {
+    "product_name": "SpiderFlow",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>SpiderFlow</title>"
+      ]
+    }
+  },  {
+    "product_name": "安全设备通杀RCE",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/webui/images/default/default/alert_close.jpg"
+      ]
+    }
+  },  {
+    "product_name": "百为智能流控路由器命令执行",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<script type=\"text/javascript\">top.location.href=\"/login.htm\";</script>"
+      ]
+    }
+  },  {
+    "product_name": "百为智能流控路由器命令执行",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>BYTEVALUE 智能流控路由器</title>"
+      ]
+    }
+  },  {
+    "product_name": "Smart管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Smart",
+        "管理平台"
+      ]
+    }
+  },  {
+    "product_name": "Digital_Signage",
+    "level": 1,
+    "rules": {
+      "body": [
+        "progressContainer",
+        "progressIncrease"
+      ]
+    }
+  },  {
+    "product_name": "D-Link_NAS设备",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/cgi-bin/login_mgr.cgi",
+        "cmd=cgi_get_ssl_info"
+      ]
+    }
+  },  {
+    "product_name": "Ivanti_EPMM",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Ivanti",
+        "labels"
+      ]
+    }
+  },  {
+    "product_name": "新开普",
+    "level": 1,
+    "rules": {
+      "body": [
+        "window.top.location.href = 'index.action';"
+      ]
+    }
+  },  {
+    "product_name": "Optilink",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/html/css/dxtdata.css"
+      ]
+    }
+  },  {
+    "product_name": "PagerMaid_Pyro后台管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>PagerMaid-Pyro 后台管理</title>"
+      ]
+    }
+  },  {
+    "product_name": "Panabit",
+    "level": 1,
+    "rules": {
+      "body": [
+        "对不起，您的日志系统时间和您的流控系统时间相差超过30分钟，请核对！"
+      ]
+    }
+  },  {
+    "product_name": "Panabit",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Maintain/cloud_index.php"
+      ]
+    }
+  },  {
+    "product_name": "三汇_SMG_网关管理软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "text ml10 mr20",
+        "网关管理软件"
+      ]
+    }
+  },  {
+    "product_name": "三汇_SMG_网关管理软件",
+    "level": 1,
+    "rules": {
+      "body": [
+        "text ml10 mr20",
+        "Gateway Management"
+      ]
+    }
+  },  {
+    "product_name": "SPIP",
+    "level": 1,
+    "rules": {
+      "header": [
+        "Composed-By: SPIP"
+      ]
+    }
+  },  {
+    "product_name": "亿邮电子邮件系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "亿邮电子邮件系统"
+      ]
+    }
+  },  {
+    "product_name": "AVCON6系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>AVCON-点播管理平台</title>"
+      ]
+    }
+  },  {
+    "product_name": "TOTOLINK",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>TOTOLINK</title>"
+      ]
+    }
+  },  {
+    "product_name": "云课网校系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/static/libs/common/jquery.stickyNavbar.min.js"
+      ]
+    }
+  },  {
+    "product_name": "JoplinServer",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Joplin Server - Login</title>"
+      ]
+    }
+  },  {
+    "product_name": "Hoverfly",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Hoverfly Dashboard</title>"
+      ]
+    }
+  },  {
+    "product_name": "誉龙视音频综合管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "PView 视音频管理平台"
+      ]
+    }
+  },  {
+    "product_name": "E-ZKEco时间_安全管理平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "login_middle_title user_login"
+      ]
+    }
+  },  {
+    "product_name": "SAP_NetWeaver",
+    "level": 1,
+    "rules": {
+      "body": [
+        "SAP NetWeaver Application Server Java"
+      ]
+    }
+  },  {
+    "product_name": "东方通",
+    "level": 1,
+    "rules": {
+      "header": [
+        "TongWeb Server"
+      ]
+    }
+  },  {
+    "product_name": "普华_科技",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Power.login.init",
+        "Power.ui.warning",
+        "Power_login_btn"
+      ]
+    }
+  },  {
+    "product_name": "深科特LEAN MES系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Content/js/skt.utility.checkmobile.js"
+      ]
+    }
+  },  {
+    "product_name": "深科特LEAN MES系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "../MobileApp/VerifyError.aspx"
+      ]
+    }
+  },  {
+    "product_name": "深科特LEAN MES系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "Content/login/login2/multiplant_top.png"
+      ]
+    }
+  },  {
+    "product_name": "群杰印章物联网平台",
+    "level": 1,
+    "rules": {
+      "body": [
+        "群杰印章物联网平台"
+      ]
+    }
+  },  {
+    "product_name": "广州图创 图书馆集群管理系统",
+    "level": 1,
+    "rules": {
+      "body": [
+        "/interlib3/media/images/favicon.ico"
+      ]
+    }
+  },  {
+    "product_name": "翼龙开源游戏面板",
+    "level": 1,
+    "rules": {
+      "body": [
+        "<title>Pterodactyl</title>"
+      ]
+    }
+  }
+
+
+
+]
